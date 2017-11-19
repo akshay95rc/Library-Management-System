@@ -4,8 +4,10 @@ The project is build on PHP and MySQL.
 
 WAMP Server should be installed to run the project.
 
-Copy this "library" folder inside "C:/wamp64/www/" folder.
+Create a library folder inside "C:/wamp64/www/".
 
-After that open, localhost/library in Chrome.
+Copy the zip inside "C:/wamp64/www/folder" folder and extract it.
 
 Data for database can be imported from "lib.sql" file.
+
+After that open, localhost/library in Chrome.
